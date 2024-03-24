@@ -1,0 +1,60 @@
+[
+    {
+        "name": "iphone13",
+        "price": "1880",
+        "featured": true,
+        "brand": "apple"
+    },
+    {
+        "name": "TV110",
+        "price": "1780",
+        "featured": true,
+        "brand": "lg"
+    },
+    {
+        "name": "iphone14",
+        "price": "2000",
+        "featured": true,
+        "brand": "apple"
+    },
+    {
+        "name": "Watch_pro",
+        "price": "1200",
+        "brand": "apple"
+    },
+    {
+        "name": "S23",
+        "price": "2000",
+        "featured": true,
+        "brand": "samsung"
+    },
+    {
+        "name": "DEL009",
+        "price": "8000",
+        "featured": true,
+        "brand": "dell"
+    },
+    {
+        "name": "Pavallion099",
+        "price": "7000",
+        "featured": true,
+        "brand": "hp"
+    },
+    {
+        "name": "HamsterDam",
+        "price": "3400",
+        "featured": true,
+        "brand": "lenovo"
+    },
+    {
+        "name": "Master_Pro",
+        "price": "1880",
+        "brand": "lenovo"
+    },
+    {
+        "name": "Action_vision",
+        "price": "1880",
+        "featured": true,
+        "brand": "dell"
+    }
+]
